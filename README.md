@@ -2,19 +2,17 @@
 
 ### Software Engineer | AI/ML • Web Development • Blockchain  
 
-I’m a developer with strong interest in building **scalable software systems** across **AI/ML, modern web development, and blockchain technologies**.  
-I enjoy learning by building real projects, writing clean code, and continuously improving my engineering fundamentals.
-
-I believe good software is a mix of **clarity, performance, and real-world usability**.
+I’m a software engineer with hands-on experience and strong interest in **AI/ML, full-stack web development, and blockchain technologies**.  
+I focus on writing **clean, scalable, and production-ready code**, while continuously expanding my technical depth across multiple domains.
 
 ---
 
 ## 🧠 Areas of Interest
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🌐 Full-Stack Web Development  
-- 🔗 Blockchain & Decentralized Applications  
-- 📊 Data Analysis & Visualization  
-- ☁️ Scalable & Deployable Systems  
+- 🔗 Blockchain & Decentralized Systems  
+- 📊 Data Engineering & Analytics  
+- ☁️ Scalable Backend Systems  
 
 ---
 
@@ -22,24 +20,46 @@ I believe good software is a mix of **clarity, performance, and real-world usabi
 
 ### 👨‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,php,sql" />
 </p>
 
-### 🤖 AI / ML
+---
+
+### ⚙️ Backend Frameworks & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
 </p>
 
-### 🌐 Web Development
+---
+
+### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
+
+---
+
+### 🤖 AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+---
 
 ### 🔗 Blockchain
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 </p>
+
+---
 
 ### 🧰 Tools & Platforms
 <p align="left">
@@ -48,26 +68,15 @@ I believe good software is a mix of **clarity, performance, and real-world usabi
 
 ---
 
-## 📈 What I Focus On
-- Writing **maintainable, readable, and scalable code**
-- Understanding **core concepts**, not just frameworks
-- Building projects that reflect **real-world use cases**
-- Learning continuously and improving through iteration  
+## 📈 Engineering Mindset
+- Strong fundamentals in **data structures & algorithms**
+- Experience across **multiple programming paradigms**
+- Focus on **performance, readability, and maintainability**
+- Comfortable working across the **full software lifecycle**
+
+---
+  
 
 ---
 
-## 🎯 Career Goals
-- Software Engineer roles  
-- AI / ML Engineer roles  
-- Full-Stack / Backend Developer roles  
-- Blockchain Developer (entry-level / learning-focused)  
-
----
-
-## 📫 Connect With Me
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- 📧 Email: your.email@example.com  
-
----
-
-⭐ Feel free to explore my repositories — each one represents my learning, experimentation, and growth as a developer.
+⭐ Explore my repositories to see how I apply these technologies in real projects.
