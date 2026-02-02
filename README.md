@@ -1,82 +1,73 @@
 # Hi, I'm Afzal Khan 👋  
-### AI / ML Engineer | Full-Stack Developer | Open-Source Enthusiast  
 
-I’m a passionate developer focused on building **real-world, production-ready applications** using **AI/ML and modern web technologies**.  
-I enjoy transforming complex problems into clean, scalable solutions and continuously learning new tools in the AI ecosystem.
+### Software Engineer | AI/ML • Web Development • Blockchain  
 
----
+I’m a developer with strong interest in building **scalable software systems** across **AI/ML, modern web development, and blockchain technologies**.  
+I enjoy learning by building real projects, writing clean code, and continuously improving my engineering fundamentals.
 
-## 🚀 What I Do
-- 🤖 Build **AI/ML projects** using Transformers & Hugging Face datasets  
-- 🌐 Develop **full-stack web applications** (Django + React)  
-- 📊 Work with **data analysis, visualization & ML pipelines**  
-- ☁️ Deploy applications and maintain clean, version-controlled code  
+I believe good software is a mix of **clarity, performance, and real-world usability**.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**  
-- Python, JavaScript, SQL  
-
-**AI / Machine Learning**  
-- PyTorch, Transformers  
-- Hugging Face 🤗  
-- Pandas, NumPy, Scikit-learn  
-
-**Web Development**  
-- Backend: Django, REST APIs  
-- Frontend: React, Next.js  
-- UI: HTML, CSS, Tailwind  
-
-**Tools & Platforms**  
-- Git & GitHub  
-- Docker (basic)  
-- Linux, VS Code  
-- Jupyter Notebook  
+## 🧠 Areas of Interest
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Full-Stack Web Development  
+- 🔗 Blockchain & Decentralized Applications  
+- 📊 Data Analysis & Visualization  
+- ☁️ Scalable & Deployable Systems  
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Languages & Technologies
 
-### 🔬 Chemical Equipment Parameter Visualizer  
-**Tech:** Django, React, CSV Analytics, Charts  
-- Upload and analyze industrial data  
-- Interactive visualizations & history tracking  
-- Built with a production-ready architecture  
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,sql" />
+</p>
 
-🔗 *Repo & demo available on my GitHub*
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,html,css,tailwind" />
+</p>
+
+### 🔗 Blockchain
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 ---
 
-### 🤖 AI / ML Projects (Transformers & NLP)  
-**Tech:** Hugging Face, PyTorch  
-- Built transformer-based models on real datasets  
-- Focus on explainability & clean experimentation  
-- Projects designed to be **recruiter-readable**  
+## 📈 What I Focus On
+- Writing **maintainable, readable, and scalable code**
+- Understanding **core concepts**, not just frameworks
+- Building projects that reflect **real-world use cases**
+- Learning continuously and improving through iteration  
 
 ---
 
-### 🌐 Full-Stack Web Applications  
-**Tech:** Django REST + React  
-- Authentication, dashboards, APIs  
-- Clean UI and scalable backend structure  
-
----
-
-## 📈 What I'm Looking For
-- 🔍 **AI / ML Engineer roles**
-- 🔍 **Data Scientist / ML Internships**
-- 🔍 **Full-Stack / Backend Developer roles**
-- Open to **remote / on-site opportunities**
+## 🎯 Career Goals
+- Software Engineer roles  
+- AI / ML Engineer roles  
+- Full-Stack / Backend Developer roles  
+- Blockchain Developer (entry-level / learning-focused)  
 
 ---
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
 - 📧 Email: your.email@example.com  
-- 💬 Open to collaboration & learning opportunities  
 
 ---
 
-⭐ If you find my work interesting, feel free to star a repo or connect — let’s build something impactful!
+⭐ Feel free to explore my repositories — each one represents my learning, experimentation, and growth as a developer.
